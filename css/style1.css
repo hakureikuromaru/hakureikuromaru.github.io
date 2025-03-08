@@ -1,0 +1,43 @@
+body {
+    
+    background-color: #1e1e1e;
+    color: #ffb7c5;
+    height: 100%;
+    width: 100%;
+    padding-bottom: 100px;
+    
+}
+
+a {
+
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color:#ffb7c5
+
+}
+
+.navbar ul{
+    list-style-type: none;
+    background-color: #c24641;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+
+.navbar a{
+    color: #ffffff
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+
+.navbar a:hover{
+    background-color: #c24641;
+}
+
+.navbar li{
+    float: left;
+}
