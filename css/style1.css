@@ -41,3 +41,9 @@ a {
 .navbar li{
     float: left;
 }
+
+.text-with-img img{
+    height: 1em;
+    width: auto;
+    vertical-align: middle;
+}
